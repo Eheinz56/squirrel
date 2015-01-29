@@ -44,5 +44,11 @@ function phi(table) {
               (table[0] + table[2]));
 }
 
-print(tableFor("touched tree", JOURNAL));
-print(phi(tableFor("touched tree",JOURNAL)));
+print(tableFor("brushed teeth", JOURNAL));
+print(phi(tableFor("brushed teeth",JOURNAL)));
+
+print(tableFor("weekend",JOURNAL));
+print(phi(tableFor("weekend",JOURNAL)));
+
+
+	
